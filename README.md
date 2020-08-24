@@ -1,4 +1,4 @@
-# putty-registery-to-linux-sessions
+# putty-registry-to-linux-sessions
 
 This tool helps to move putty sessions in windows to linux by taking the **reg** file and converting it to sessions folder.
 
