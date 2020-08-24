@@ -1,5 +1,5 @@
 {
-  "name": "putty-registery-to-linux-sessions",
+  "name": "putty-registry-to-linux-sessions",
   "version": "1.0.0",
   "description": "Converts putty's registery backup to linux's session folder",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/echosalik/putty-registery-to-linux-sessions.git"
+    "url": "git+https://github.com/echosalik/putty-registry-to-linux-sessions.git"
   },
   "keywords": [
     "putty",
@@ -19,7 +19,7 @@
   "author": "Salik Sadruddin Merani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/echosalik/putty-registery-to-linux-sessions/issues"
+    "url": "https://github.com/echosalik/putty-registry-to-linux-sessions/issues"
   },
-  "homepage": "https://github.com/echosalik/putty-registery-to-linux-sessions#readme"
+  "homepage": "https://github.com/echosalik/putty-registry-to-linux-sessions#readme"
 }
